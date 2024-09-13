@@ -16,4 +16,3 @@ app.listen(PORT, () => {
   connectDB();
   console.log("Server started at http://localhost:5000");
 });
-//password 2WmeJgCdSco7XcB7
